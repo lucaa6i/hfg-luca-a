@@ -5,9 +5,9 @@
 
 - 🔭 Stromee+ | **Energy cunsumption data collection**
 
-- 👨‍💻 All of my projects will soon be available at [luca-albanesi.de](luca-albanesi.de)
+- 👨‍💻 All of my projects will soon be available at [luca-albanesi.de](https://luca-albanesi.de)
 
-- Project Insights can be viewed in my blog at [blog.luca-albanesi.de](blog.luca-albanesi.de)
+- Project Insights can be viewed in my blog at [blog.luca-albanesi.de](https://blog.luca-albanesi.de/)
 
 - 💬 Ask me about **vue**
 
