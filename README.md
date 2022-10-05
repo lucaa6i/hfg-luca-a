@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Smart City - moisture data collection**
 
-- 🔭 Stromee + **Energy cunsumption data collection**
+- 🔭 Stromee+ | **Energy cunsumption data collection**
 
 - 👨‍💻 All of my projects will soon be available at [luca-albanesi.de](luca-albanesi.de)
 
