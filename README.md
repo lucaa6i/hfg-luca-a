@@ -5,6 +5,8 @@
 
 - 🔭 Stromee+ | **Energy cunsumption data collection**
 
+- 🔭 Stromee Portal | **Managing energy Contracts for the german energy market**
+
 - 👨‍💻 All of my projects will soon be available at [luca-albanesi.de](https://luca-albanesi.de)
 
 - Project Insights can be viewed in my blog at [blog.luca-albanesi.de](https://blog.luca-albanesi.de/)
